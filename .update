@@ -1,9 +1,0 @@
-cd ..
-rm -rf .MA22018_24
-mv MA22018_24 .MA22018_24
-rm -rf .MA22018_24/.git
-rm -rf MA22018_24
-git clone https://github.com/dolgov/MA22018_24.git
-cp -r .MA22018_24/* MA22018_24/
-rm -rf .MA22018_24
-
